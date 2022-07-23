@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
-vagrant/
 *.box
+.vagrant/
 __pycache__/
 *.py[cod]
 *$py.class
